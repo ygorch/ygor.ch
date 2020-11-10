@@ -18,15 +18,15 @@ export default function Home() {
 
         <div className="grid">
 
-          <a className="card" href="https://nextjs.org/learn">
+          <a className="card" target="_blank" href="https://github.com/ygorch">
             <h3>GitHub &rarr;</h3>
           </a>
 
-          <a className="card" href="https://nextjs.org/docs">
+          <a className="card" target="_blank" href="https://linkedin.com/in/ygorch/">
             <h3>Linkedin &rarr;</h3>
           </a>
 
-          <a className="card" href="https://github.com/vercel/next.js/tree/master/examples">
+          <a className="card" target="_blank" href="https://behance.net/ygorch">
             <h3>Behance &rarr;</h3>
           </a>
         </div>
